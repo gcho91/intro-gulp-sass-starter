@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.scss"],"names":[],"mappings":"AAAA,KAAK,CAAC;EACF,SAAS,EAAE,IAAK,GACnB","file":"styles.css","sourcesContent":[".name {\n    font-size: 22px;\n}"]}
